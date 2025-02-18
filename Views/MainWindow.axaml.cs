@@ -2,7 +2,6 @@ using Avalonia.Controls;
 using Avalonia.Controls.Primitives;
 using Avalonia.Interactivity;
 using System;
-using Tmds.DBus.Protocol;
 using Wake_On_Lan.ViewModels;
 
 namespace Wake_On_Lan.Views
